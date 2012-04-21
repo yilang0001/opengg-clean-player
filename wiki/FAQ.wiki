@@ -52,6 +52,10 @@ http://player.opengg.me/TudouVideoPlayer_Homer_237.swf
 见[Supported_Video_Sites 目前支持的视频网站], 如有需求添加其他视频网站, 请到[http://code.google.com/p/opengg-clean-player/issues/list 项目Issues]提交功能需求
 ==这个脚本支持哪些浏览器==
 见[Supported_Browsers 测试兼容的浏览器], 欢迎到[http://code.google.com/p/opengg-clean-player/issues/list 项目Issues]提交测试报告.
+==我在使用的过程中遇到了问题(bug)==
+欢迎到[http://code.google.com/p/opengg-clean-player/issues/list 项目Issues]提交bug 报告.
+
+土豆网播放器第一次载入时没有载入图标, 会让用户产生无效的错觉( 原版播放器也有这个问题, 但他们服务器比较快, 所以不明显), 请耐心等待20 秒, 若还不能载入, 请提交bug 报告.
 ==我作为普通用户, 能为项目做些什么==
   # 提交功能需求
   # 反馈bug
