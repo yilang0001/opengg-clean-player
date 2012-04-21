@@ -1,0 +1,17 @@
+#summary 测试兼容的浏览器
+
+= Introduction =
+
+目前支持的视频网站
+
+
+= Details =
+
+经过我的测试, 脚本目前支持以下播放器, 欢迎到[http://code.google.com/p/opengg-clean-player/issues/list 项目Issues]提交测试报告.
+
+  # Chrome 18.0.1025.162 m Win32 + Shockwave Flash 11.2 r202 NPAPI gcswf32.dll
+  # Firefox 11.0 Win32 + Greasemonkey 0.9.18 + NPSWF32_11_2_202_233.dll
+  # Firefox 14.0a1 Win64 + Greasemonkey 0.9.18 + NPSWF32_11_2_202_233.dll
+  # Opera 11.62 1347 Win32 Windows 7 + NPSWF32_11_2_202_233.dll
+  # 搜狗浏览器 3.2.0.4262
+  # 360浏览器极速版
