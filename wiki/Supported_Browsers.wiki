@@ -2,7 +2,7 @@
 
 = Introduction =
 
-目前支持的视频网站
+测试兼容的浏览器
 
 
 = Details =
