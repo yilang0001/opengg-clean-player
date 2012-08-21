@@ -1,10 +1,13 @@
-#summary 使用说明
+#summary 如何安装userscript
 
 <wiki:toc max_depth="2" />
 
-= 安装 =
+= 注意 =
 
-[http://userscripts.org/scripts/show/120679 安装地址]
+  * OpenGG.Clean.Player 的安装地址为http://userscripts.org/scripts/show/120679 , 其他脚本可能有所不同, 请注意鉴别.
+  * 本文不囊括所有的浏览器, 如果你希望补充本文, 请在文末留言.
+
+= 安装 =
 
 ==Firefox==
   * [https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/ 安装Greasemonkey] , 然后重启Firefox 使之生效.
