@@ -29,7 +29,8 @@ Chrome 21 系列增加了对扩展安装的限制, 用户只能安装Chrome Stor
   * 打开安装地址 , 右键 install 将目标另存到桌面上 .
   * 将桌面上的120679.user.js 复制到之前打开的文件夹里, 重启浏览器.
 ==其他基于Chrome 或Chromium 的浏览器(猎豹, 360极速浏览器等)==
-  * 与Chrome一致. 但是多核浏览器的兼容模式(IE) 上脚本不能工作, 请手动切换到极速模式.
+  * 打开安装地址 , 点击 install 安装.
+  * 多核浏览器的兼容模式(IE) 上脚本不能工作, 请手动切换到极速模式.
 ==遨游3(由热心网友维护, 版本可能稍有滞后)==
   * [http://extension.maxthon.cn/detail/index.php?view_id=1286 OpenGG.Clean.Player]
   * [http://extension.maxthon.cn/detail/index.php?view_id=1296 Xunlei.Any.Player]
