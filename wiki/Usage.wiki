@@ -4,7 +4,7 @@
 
 = 注意 =
 
-  * OpenGG.Clean.Player 的安装地址为http://userscripts.org/scripts/show/120679 , 其他脚本可能有所不同, 请注意鉴别.
+  * OpenGG.Clean.Player 的安装地址为[http://userscripts.org/scripts/show/120679] , 其他脚本可能有所不同, 请注意鉴别.
   * 本文不囊括所有的浏览器, 如果你希望补充本文, 请在文末留言.
 
 = 安装 =
