@@ -4,7 +4,9 @@
 
 = 注意 =
 
-  * OpenGG.Clean.Player 的安装地址为[http://userscripts.org/scripts/show/120679] , 其他脚本可能有所不同, 请注意鉴别.
+  * OpenGG.Clean.Player 的安装地址为[http://userscripts.org/scripts/show/120679]
+  * Xunlei.Any.Player 的安装地址为[http://userscripts.org/scripts/show/138814]
+  * 其他脚本可能有所不同, 请注意鉴别.
   * 本文不囊括所有的浏览器, 如果你希望补充本文, 请在文末留言.
 
 = 安装 =
@@ -28,8 +30,9 @@ Chrome 21 系列增加了对扩展安装的限制, 用户只能安装Chrome Stor
   * 将桌面上的120679.user.js 复制到之前打开的文件夹里, 重启浏览器.
 ==其他基于Chrome 或Chromium 的浏览器(猎豹, 360极速浏览器等)==
   * 与Chrome一致. 但是多核浏览器的兼容模式(IE) 上脚本不能工作, 请手动切换到极速模式.
-==遨游3(由热心网友维护)==
-  * [http://extension.maxthon.cn/detail/index.php?view_id=1286 插件安装地址]
+==遨游3(由热心网友维护, 版本可能稍有滞后)==
+  * [http://extension.maxthon.cn/detail/index.php?view_id=1286 OpenGG.Clean.Player]
+  * [http://extension.maxthon.cn/detail/index.php?view_id=1296 Xunlei.Any.Player]
 = 升级 =
 除Firefox+Greasemonkey 可以检测升级之外, 其他浏览器均须手动更新, 更新步骤与安装一致.
 = 检查是否安装成功 =
