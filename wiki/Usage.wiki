@@ -32,7 +32,7 @@ Chrome 21 系列增加了对扩展安装的限制, 用户只能安装Chrome Stor
   * 先安装[https://github.com/os0x/NinjaKit NinjaKit]
   * 打开安装地址 , 点击 install 安装.
 ==搜狗浏览器 3.2==
-  * 先按下键盘上的win+r , 在运行框里输入 %appdata%/Sogouexplorer/Webkit/UserScripts , 回车, 打开一个文件夹.
+  * 先按下键盘上的win+r , 在运行框里输入 %appdata%/Sogouexplorer/Webkit/!UserScripts , 回车, 打开一个文件夹.
   * 打开安装地址 , 右键 install 将目标另存到桌面上 .
   * 将桌面上的120679.user.js 复制到之前打开的文件夹里, 重启浏览器.
 ==其他基于Chrome 或Chromium 的浏览器(猎豹, 360极速浏览器等)==
